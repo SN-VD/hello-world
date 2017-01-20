@@ -13,6 +13,6 @@ Domworld:
 Created a repository for my project (Domworld) with MIT licence and a gitignore for .exe files and .cvs files
 Added a Todo
 Starred Domworld and the Presentatations of Friday 20.
-Invited Redmar (who also works on this project) to join the repository as a contributor.
-Activated Travis for Domworld. Still gives error, brecause there is no working code in the directory yet
+Invited Redmar (who also works on this project) to join.
+Activated Travis for Domworld
 
